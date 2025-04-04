@@ -1,10 +1,7 @@
-# projet_web_info204_TCLN
----
-repo github d'un des projet web (info204)
+# ColectArt
 
 
-
----
-auteurs:
+### auteurs (groupe 5):
 Titouan, Ludovic, Christer, Nathan
+
 L1 MISPI, 2024-2025
